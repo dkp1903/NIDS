@@ -9,4 +9,4 @@ Models I plan to use are:
 * Decision Tree
 * K-means Clustering
 
-** Dushyant Pathak
+-Dushyant Pathak
